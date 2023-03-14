@@ -1,0 +1,5 @@
+openai==0.27.2
+Flask==2.2.3
+gunicorn==20.1.0
+peewee==3.16.0
+psycopg2-binary==2.9.5
